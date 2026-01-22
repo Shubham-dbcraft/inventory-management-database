@@ -4,7 +4,7 @@ Inventory Management Database using SQL Server with business rules and constrain
 - Phase 1 completed: Database schema design
 - 5 tables created with constraints and relationships
 - Sample data inserted
-- - Reporting view (BILL) created using FK → PK joins
+- Reporting view (BILL) created using FK → PK joins
 ## Tables Designed
 - SUPPLIER
 - PRODUCT
